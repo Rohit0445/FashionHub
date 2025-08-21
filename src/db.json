@@ -1,0 +1,405 @@
+{
+  "products": [
+  {
+    "name": "Jacket",
+    "category": "mens",
+    "pid": "1",
+    "pname": "Waterproof Windbreaker Jacket",
+    "pprice": 2500,
+    "pimg": "https://m.media-amazon.com/images/I/61Oyentsd9L._SX679_.jpg"
+  },
+  {
+    "name": "Shirt",
+    "category": "mens",
+    "pid": "2",
+    "pname": "Slim Fit Cotton Shirt",
+    "pprice": 1200,
+    "pimg": "https://m.media-amazon.com/images/I/61SDTiZdvHL._SX679_.jpg"
+  },
+  {
+    "name": "Jeans",
+    "category": "mens",
+    "pid": "3",
+    "pname": "Regular Fit Blue Jeans",
+    "pprice": 2000,
+    "pimg": "https://m.media-amazon.com/images/I/41ZxVXFpW6L._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "T-Shirt",
+    "category": "mens",
+    "pid": "4",
+    "pname": "Graphic Printed T-Shirt",
+    "pprice": 800,
+    "pimg": "https://m.media-amazon.com/images/I/518t+Fw6P4L._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Sweater",
+    "category": "mens",
+    "pid": "5",
+    "pname": "Wool Blend Winter Sweater",
+    "pprice": 1800,
+    "pimg": "https://m.media-amazon.com/images/I/81N4FgWVTuL._SY879_.jpg"
+  },
+  {
+    "name": "Blazer",
+    "category": "mens",
+    "pid": "6",
+    "pname": "Formal Slim Fit Blazer",
+    "pprice": 4500,
+    "pimg": "https://m.media-amazon.com/images/I/61eqj6z94GL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Hoodie",
+    "category": "mens",
+    "pid": "7",
+    "pname": "Casual Zip-up Hoodie",
+    "pprice": 1600,
+    "pimg": "https://m.media-amazon.com/images/I/61pCz+kvb3L._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Kurta",
+    "category": "mens",
+    "pid": "8",
+    "pname": "Cotton Ethnic Kurta",
+    "pprice": 1400,
+    "pimg": "https://m.media-amazon.com/images/I/81w2JnRTz-L._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Track Pants",
+    "category": "mens",
+    "pid": "9",
+    "pname": "Sports Track Pants",
+    "pprice": 1100,
+    "pimg": "https://m.media-amazon.com/images/I/61fhel6qSIL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Shorts",
+    "category": "mens",
+    "pid": "10",
+    "pname": "Casual Cotton Shorts",
+    "pprice": 900,
+    "pimg": "https://m.media-amazon.com/images/I/812ozxZHjZL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Jacket",
+    "category": "womens",
+    "pid": "11",
+    "pname": "Faux Leather Biker Jacket",
+    "pprice": 3200,
+    "pimg": "https://m.media-amazon.com/images/I/71BvNY0FOzL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Dress",
+    "category": "womens",
+    "pid": "12",
+    "pname": "Floral Print Maxi Dress",
+    "pprice": 2700,
+    "pimg": "https://m.media-amazon.com/images/I/61S5oqDCkfL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Top",
+    "category": "womens",
+    "pid": "13",
+    "pname": "Casual Cotton Top",
+    "pprice": 900,
+    "pimg": "https://m.media-amazon.com/images/I/61p0yiuehWL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Jeans",
+    "category": "womens",
+    "pid": "14",
+    "pname": "High Waist Skinny Jeans",
+    "pprice": 2200,
+    "pimg": "https://m.media-amazon.com/images/I/61jPBmRWaAL._AC_UL480_FMwebp_QL65_.jpg "
+  },
+  {
+    "name": "Skirt",
+    "category": "womens",
+    "pid": "15",
+    "pname": "Pleated A-Line Skirt",
+    "pprice": 1500,
+    "pimg": "https://example.com/images/womens_skirt1.jpg"
+  },
+  {
+    "name": "Kurti",
+    "category": "womens",
+    "pid": "16",
+    "pname": "Cotton Printed Kurti",
+    "pprice": 1300,
+    "pimg": "https://example.com/images/womens_kurti1.jpg"
+  },
+  {
+    "name": "Saree",
+    "category": "womens",
+    "pid": "17",
+    "pname": "Silk Traditional Saree",
+    "pprice": 4800,
+    "pimg": "https://example.com/images/womens_saree1.jpg"
+  },
+  {
+    "name": "Blouse",
+    "category": "womens",
+    "pid": "18",
+    "pname": "Designer Party Wear Blouse",
+    "pprice": 1200,
+    "pimg": "https://example.com/images/womens_blouse1.jpg"
+  },
+  {
+    "name": "Leggings",
+    "category": "womens",
+    "pid": "19",
+    "pname": "Stretchable Cotton Leggings",
+    "pprice": 700,
+    "pimg": "https://example.com/images/womens_leggings1.jpg"
+  },
+  {
+    "name": "Cardigan",
+    "category": "womens",
+    "pid": "20",
+    "pname": "Woolen Longline Cardigan",
+    "pprice": 1900,
+    "pimg": "https://example.com/images/womens_cardigan1.jpg"
+  },
+  {
+    "name": "Suit",
+    "category": "mens",
+    "pid": "21",
+    "pname": "Classic Two-Piece Suit",
+    "pprice": 6000,
+    "pimg": "https://example.com/images/mens_suit1.jpg"
+  },
+  {
+    "name": "Polo T-Shirt",
+    "category": "mens",
+    "pid": "22",
+    "pname": "Solid Color Polo T-Shirt",
+    "pprice": 1000,
+    "pimg": "https://example.com/images/mens_polo1.jpg"
+  },
+  {
+    "name": "Joggers",
+    "category": "mens",
+    "pid": "23",
+    "pname": "Casual Jogger Pants",
+    "pprice": 1300,
+    "pimg": "https://example.com/images/mens_joggers1.jpg"
+  },
+  {
+    "name": "Overcoat",
+    "category": "mens",
+    "pid": "24",
+    "pname": "Wool Overcoat",
+    "pprice": 5000,
+    "pimg": "https://example.com/images/mens_overcoat1.jpg"
+  },
+  {
+    "name": "Sherwani",
+    "category": "mens",
+    "pid": "25",
+    "pname": "Embroidered Wedding Sherwani",
+    "pprice": 8500,
+    "pimg": "https://example.com/images/mens_sherwani1.jpg"
+  },
+  {
+    "name": "Tank Top",
+    "category": "womens",
+    "pid": "26",
+    "pname": "Sleeveless Tank Top",
+    "pprice": 700,
+    "pimg": "https://example.com/images/womens_tanktop1.jpg"
+  },
+  {
+    "name": "Anarkali",
+    "category": "womens",
+    "pid": "27",
+    "pname": "Designer Anarkali Suit",
+    "pprice": 4200,
+    "pimg": "https://example.com/images/womens_anarkali1.jpg"
+  },
+  {
+    "name": "Palazzo Pants",
+    "category": "womens",
+    "pid": "28",
+    "pname": "Flared Palazzo Pants",
+    "pprice": 1600,
+    "pimg": "https://example.com/images/womens_palazzo1.jpg"
+  },
+  {
+    "name": "Lehenga",
+    "category": "womens",
+    "pid": "29",
+    "pname": "Bridal Designer Lehenga",
+    "pprice": 9500,
+    "pimg": "https://example.com/images/womens_lehenga1.jpg"
+  },
+  {
+    "name": "Kurta Pajama",
+    "category": "mens",
+    "pid": "30",
+    "pname": "Traditional Kurta Pajama Set",
+    "pprice": 2200,
+    "pimg": "https://example.com/images/mens_kurtapajama1.jpg"
+  },
+  {
+    "name": "Dungaree",
+    "category": "womens",
+    "pid": "31",
+    "pname": "Casual Denim Dungaree",
+    "pprice": 2500,
+    "pimg": "https://example.com/images/womens_dungaree1.jpg"
+  },
+  {
+    "name": "Crop Top",
+    "category": "womens",
+    "pid": "32",
+    "pname": "Trendy Cotton Crop Top",
+    "pprice": 800,
+    "pimg": "https://example.com/images/womens_croptop1.jpg"
+  },
+  {
+    "name": "Jumpsuit",
+    "category": "womens",
+    "pid": "33",
+    "pname": "Casual Summer Jumpsuit",
+    "pprice": 2100,
+    "pimg": "https://example.com/images/womens_jumpsuit1.jpg"
+  },
+  {
+    "name": "Capri",
+    "category": "womens",
+    "pid": "34",
+    "pname": "Stretch Fit Capri",
+    "pprice": 1100,
+    "pimg": "https://example.com/images/womens_capri1.jpg"
+  },
+  {
+    "name": "Sweatshirt",
+    "category": "mens",
+    "pid": "35",
+    "pname": "Cotton Crewneck Sweatshirt",
+    "pprice": 1500,
+    "pimg": "https://example.com/images/mens_sweatshirt1.jpg"
+  },
+  {
+    "name": "Poncho",
+    "category": "womens",
+    "pid": "36",
+    "pname": "Woolen Winter Poncho",
+    "pprice": 2800,
+    "pimg": "https://example.com/images/womens_poncho1.jpg"
+  },
+  {
+    "name": "Gown",
+    "category": "womens",
+    "pid": "37",
+    "pname": "Evening Party Gown",
+    "pprice": 5500,
+    "pimg": "https://example.com/images/womens_gown1.jpg"
+  },
+  {
+    "name": "Tracksuit",
+    "category": "mens",
+    "pid": "38",
+    "pname": "Polyester Tracksuit",
+    "pprice": 3500,
+    "pimg": "https://example.com/images/mens_tracksuit1.jpg"
+  },
+  {
+    "name": "Puffer Jacket",
+    "category": "womens",
+    "pid": "39",
+    "pname": "Winter Puffer Jacket",
+    "pprice": 3700,
+    "pimg": "https://example.com/images/womens_puffer1.jpg"
+  },
+  {
+    "name": "Overalls",
+    "category": "womens",
+    "pid": "40",
+    "pname": "Casual Denim Overalls",
+    "pprice": 2400,
+    "pimg": "https://example.com/images/womens_overalls1.jpg"
+  },
+  {
+    "name": "Windcheater",
+    "category": "mens",
+    "pid": "41",
+    "pname": "Lightweight Windcheater",
+    "pprice": 2100,
+    "pimg": "https://example.com/images/mens_windcheater1.jpg"
+  },
+  {
+    "name": "Chinos",
+    "category": "mens",
+    "pid": "42",
+    "pname": "Slim Fit Chino Pants",
+    "pprice": 1900,
+    "pimg": "https://example.com/images/mens_chinos1.jpg"
+  },
+  {
+    "name": "Kurti Set",
+    "category": "womens",
+    "pid": "43",
+    "pname": "Printed Cotton Kurti Set",
+    "pprice": 2600,
+    "pimg": "https://example.com/images/womens_kurtiset1.jpg"
+  },
+  {
+    "name": "Shrug",
+    "category": "womens",
+    "pid": "44",
+    "pname": "Georgette Long Shrug",
+    "pprice": 1600,
+    "pimg": "https://example.com/images/womens_shrug1.jpg"
+  },
+  {
+    "name": "Blazer Dress",
+    "category": "womens",
+    "pid": "45",
+    "pname": "Chic Blazer Dress",
+    "pprice": 3300,
+    "pimg": "https://example.com/images/womens_blazerdress1.jpg"
+  },
+  {
+    "name": "Waistcoat",
+    "category": "mens",
+    "pid": "46",
+    "pname": "Formal Waistcoat",
+    "pprice": 2300,
+    "pimg": "https://example.com/images/mens_waistcoat1.jpg"
+  },
+  {
+    "name": "Kurta Set",
+    "category": "mens",
+    "pid": "47",
+    "pname": "Wedding Kurta Set",
+    "pprice": 3800,
+    "pimg": "https://example.com/images/mens_kurtaset1.jpg"
+  },
+  {
+    "name": "Tunic",
+    "category": "womens",
+    "pid": "48",
+    "pname": "Casual Cotton Tunic",
+    "pprice": 1400,
+    "pimg": "https://example.com/images/womens_tunic1.jpg"
+  },
+  {
+    "name": "Formal Shirt",
+    "category": "mens",
+    "pid": "49",
+    "pname": "Office Wear Formal Shirt",
+    "pprice": 1600,
+    "pimg": "https://example.com/images/mens_formalshirt1.jpg"
+  },
+  {
+    "name": "Patiala Suit",
+    "category": "womens",
+    "pid": "50",
+    "pname": "Traditional Patiala Suit",
+    "pprice": 3000,
+    "pimg": "https://example.com/images/womens_patiala1.jpg"
+  }
+]
+
+} 
