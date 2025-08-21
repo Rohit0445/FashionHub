@@ -17,12 +17,12 @@ const Products = () => {
     console.log(productList)
   return (
     <>
-    <div className='grid grid-cols-4 p-6'>
+    <div className='grid grid-cols-4 p-6 '>
         {
         
         productList.map((item)=>(
-            <div className='border h-120 w-90 mt-20 items-center'>
-                <img className='h-100 w-80' src={item.pimg}/>
+            <div className='border h-120 w-90 mt-20 place-items-center '>
+                <img className='h-70 w-50' src={item.pimg}/>
                 <h2 className='ml-10 mt-5'>{item.pname}</h2>
                 <p className='ml-20'>Price - {item.pprice}</p>
                 <button className='border w-50 ml-8 mt-6 '>Add to Cart</button>
