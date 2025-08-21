@@ -118,7 +118,7 @@
     "pid": "15",
     "pname": "Pleated A-Line Skirt",
     "pprice": 1500,
-    "pimg": "https://example.com/images/womens_skirt1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/816AStAzoQL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Kurti",
@@ -126,7 +126,7 @@
     "pid": "16",
     "pname": "Cotton Printed Kurti",
     "pprice": 1300,
-    "pimg": "https://example.com/images/womens_kurti1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/71Xvagl5gsL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Saree",
@@ -134,23 +134,23 @@
     "pid": "17",
     "pname": "Silk Traditional Saree",
     "pprice": 4800,
-    "pimg": "https://example.com/images/womens_saree1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/61wOmuizLtL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
-    "name": "Blouse",
+    "name": "Short Kurti ",
     "category": "womens",
     "pid": "18",
-    "pname": "Designer Party Wear Blouse",
+    "pname": "Designer Short Kurti ",
     "pprice": 1200,
-    "pimg": "https://example.com/images/womens_blouse1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/71SZuoo5Q2L._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
-    "name": "Leggings",
+    "name": "Joggers",
     "category": "womens",
     "pid": "19",
-    "pname": "Stretchable Cotton Leggings",
+    "pname": "Stretchable joggers",
     "pprice": 700,
-    "pimg": "https://example.com/images/womens_leggings1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/61r7Vnx3CkL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Cardigan",
@@ -158,7 +158,7 @@
     "pid": "20",
     "pname": "Woolen Longline Cardigan",
     "pprice": 1900,
-    "pimg": "https://example.com/images/womens_cardigan1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/61wQMfWUyKL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Suit",
@@ -166,7 +166,7 @@
     "pid": "21",
     "pname": "Classic Two-Piece Suit",
     "pprice": 6000,
-    "pimg": "https://example.com/images/mens_suit1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/51Hb19h-QAL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Polo T-Shirt",
@@ -174,7 +174,7 @@
     "pid": "22",
     "pname": "Solid Color Polo T-Shirt",
     "pprice": 1000,
-    "pimg": "https://example.com/images/mens_polo1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/71w7dLog82L._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Joggers",
@@ -182,7 +182,7 @@
     "pid": "23",
     "pname": "Casual Jogger Pants",
     "pprice": 1300,
-    "pimg": "https://example.com/images/mens_joggers1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/511ozYW2jfL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Overcoat",
@@ -190,7 +190,7 @@
     "pid": "24",
     "pname": "Wool Overcoat",
     "pprice": 5000,
-    "pimg": "https://example.com/images/mens_overcoat1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/51lAG-TAL9L._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Sherwani",
