@@ -16,9 +16,10 @@ const Layout = () => {
 
            
             <div className="hidden md:flex space-x-8 items-center">
-              <a href="#" className="hover:text-pink-500">
+              {/* <a href="#" className="hover:text-pink-500">
                 Home
-              </a>
+              </a> */}
+              <Link to={'/'} className="hover:text-pink-500">Home</Link>
               <div className="relative group">
                 <button className="hover:text-pink-500">Shop</button>
                 <div className="absolute left-0 mt-2 w-40 bg-white shadow-md rounded hidden group-hover:block">

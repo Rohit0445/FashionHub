@@ -37,7 +37,7 @@ const Login = () => {
 
   return (
     <>
-    <div className="h-100   w-300  px-100 py-40">
+    <div className="h-100   w-300  px-100 py-40 mb-60 " >
         <form  onSubmit={handleloginsubmit} className="space-y-6">
             <label htmlFor="" className="block text-lg text-gray-700 mb-1">Email</label><br />
             <input type="email" name='email' onChange={handleinput} className="w-150 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:ring-pink-500 focus:border-pink-500" placeholder="you@example.com" required/><br /><br />
@@ -50,7 +50,7 @@ const Login = () => {
 
         </form>
 
-        <div className="mt-4 flex justify-between  text-sm text-gray-600">
+        <div className="mt-4  flex justify-between  text-sm text-gray-600">
         <a href="#" className="hover:text-pink-500">Forgot Password?</a>
         <a href="#" className="hover:text-pink-500">Create Account</a>
       </div>

@@ -18,9 +18,8 @@ import { HiMiniArrowPathRoundedSquare } from "react-icons/hi2";
 // import required modules
 import { FreeMode, Pagination } from "swiper/modules";
 
-
- import AOS from 'aos';
-    import 'aos/dist/aos.css';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 import { Link } from "react-router-dom";
 
 const Home = () => {
@@ -221,7 +220,7 @@ const Home = () => {
 
       <div className="px-20">
         <h1 className="text-4xl">Our New Arrivals</h1><br />
-        <button className="border rounded p-2 hover:bg-black hover:text-white">
+        <button  className="border rounded p-2 hover:bg-black hover:text-white">
           View All Products
         </button>
         <br /><br />
