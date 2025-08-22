@@ -9,7 +9,7 @@ const Products = () => {
     useEffect(()=>{
             const fetchData=async()=>{
                     const res=await axios.get("http://localhost:3000/products");
-                        const temp=res.data.filter((p)=>p.category===cat);  
+                        const temp=res.data.filter((p)=>p.category===cat);
                     setProductList(temp);
             }
             fetchData();
@@ -17,7 +17,7 @@ const Products = () => {
     console.log(productList)
   return (
     <>
-    <div className='grid grid-cols-4 p-6 '>
+    <div className='grid grid-cols-4 pt-6 px-6 bg-gray-50'>
         {
         
         productList.map((item)=>(

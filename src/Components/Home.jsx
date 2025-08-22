@@ -200,13 +200,13 @@ const Home = () => {
 
       <div data-aos="zoom-in" data-aos-duration="1000" className="flex p-20 gap-5">
         <div>
-          <img src="shopformmen.jpg" alt="" />
-          <Link to={`/products/${"mens"}`} className="border rounded p-2 mt-20 hover:bg-black hover:text-white ">
+          <img src="shopformmen.jpg" alt="" /><br />
+          <Link to={`/products/${"mens"}`} className="border rounded p-2 mt-8 hover:bg-black hover:text-white ">
             Shop For Men
           </Link>
         </div>
         <div>
-          <img src="shopforwomen.jpg" alt="" />
+          <img src="shopforwomen.jpg" alt="" /><br />
           <Link to={`/products/${"womens"}`} className="border rounded p-2 mt-8 hover:bg-black hover:text-white ">
             Shop For Men
           </Link>

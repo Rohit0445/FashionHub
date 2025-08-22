@@ -81,7 +81,7 @@ const Layout = () => {
 
       <Outlet />
 
-      <footer className="bg-white border-t mt-45 ">
+      <footer className="bg-white border-t mt-30 ">
         <div className="max-w-7xl mx-auto px-4 py-10 grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Column 1 */}
           <div>

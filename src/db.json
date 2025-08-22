@@ -294,7 +294,7 @@
     "pid": "37",
     "pname": "Evening Party Gown",
     "pprice": 5500,
-    "pimg": "https://example.com/images/womens_gown1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/511lrc5D+RL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Tracksuit",
@@ -302,7 +302,7 @@
     "pid": "38",
     "pname": "Polyester Tracksuit",
     "pprice": 3500,
-    "pimg": "https://example.com/images/mens_tracksuit1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/71jaiznX+DL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Puffer Jacket",
@@ -310,15 +310,15 @@
     "pid": "39",
     "pname": "Winter Puffer Jacket",
     "pprice": 3700,
-    "pimg": "https://example.com/images/womens_puffer1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/61SBqOB5dPL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Overalls",
     "category": "womens",
     "pid": "40",
-    "pname": "Casual Denim Overalls",
+    "pname": "Casual Denim jeans",
     "pprice": 2400,
-    "pimg": "https://example.com/images/womens_overalls1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/51mN47gpsfL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Windcheater",
@@ -326,7 +326,7 @@
     "pid": "41",
     "pname": "Lightweight Windcheater",
     "pprice": 2100,
-    "pimg": "https://example.com/images/mens_windcheater1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/41uuscDlPfL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Chinos",
@@ -334,7 +334,7 @@
     "pid": "42",
     "pname": "Slim Fit Chino Pants",
     "pprice": 1900,
-    "pimg": "https://example.com/images/mens_chinos1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/41asgPONDAL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Kurti Set",
@@ -342,7 +342,7 @@
     "pid": "43",
     "pname": "Printed Cotton Kurti Set",
     "pprice": 2600,
-    "pimg": "https://example.com/images/womens_kurtiset1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/51hI95gF1zL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Shrug",
@@ -350,7 +350,7 @@
     "pid": "44",
     "pname": "Georgette Long Shrug",
     "pprice": 1600,
-    "pimg": "https://example.com/images/womens_shrug1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/81v+yP-iwHL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Blazer Dress",
@@ -358,7 +358,7 @@
     "pid": "45",
     "pname": "Chic Blazer Dress",
     "pprice": 3300,
-    "pimg": "https://example.com/images/womens_blazerdress1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/31LruiwO4iL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Waistcoat",
@@ -366,7 +366,7 @@
     "pid": "46",
     "pname": "Formal Waistcoat",
     "pprice": 2300,
-    "pimg": "https://example.com/images/mens_waistcoat1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/41uqWUCx4iL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Kurta Set",
@@ -374,7 +374,7 @@
     "pid": "47",
     "pname": "Wedding Kurta Set",
     "pprice": 3800,
-    "pimg": "https://example.com/images/mens_kurtaset1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/51N7F6M0f+L._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Tunic",
@@ -382,7 +382,7 @@
     "pid": "48",
     "pname": "Casual Cotton Tunic",
     "pprice": 1400,
-    "pimg": "https://example.com/images/womens_tunic1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/81OS4czw-AL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Formal Shirt",
@@ -390,7 +390,7 @@
     "pid": "49",
     "pname": "Office Wear Formal Shirt",
     "pprice": 1600,
-    "pimg": "https://example.com/images/mens_formalshirt1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/61ByBUU1ZeL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "name": "Patiala Suit",
@@ -398,7 +398,7 @@
     "pid": "50",
     "pname": "Traditional Patiala Suit",
     "pprice": 3000,
-    "pimg": "https://example.com/images/womens_patiala1.jpg"
+    "pimg": "https://m.media-amazon.com/images/I/61M0qssvv5L._AC_UL480_FMwebp_QL65_.jpg"
   }
 ]
 
