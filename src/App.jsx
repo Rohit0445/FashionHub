@@ -8,6 +8,7 @@ import Shop from './Components/Shop'
 import Login from './Components/Login'
 import Signup from './Components/Signup'
 import Products from './Components/Products'
+import Cart from './Components/Cart'
 
 
 
@@ -25,6 +26,7 @@ const App = () => {
         <Route path='/signup' element={<Signup/>}></Route>
         <Route path='/products/:cat' element={<Products/>}></Route>
         {/* <Route path='/services' element={<Services/>}></Route> */}
+        <Route path='/cart' element={<Cart/>}></Route>
       </Route>
     </Routes>
     
