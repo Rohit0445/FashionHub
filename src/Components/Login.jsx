@@ -52,7 +52,8 @@ const Login = () => {
 
         <div className="mt-4  flex justify-between  text-sm text-gray-600">
         <a href="#"  className="hover:text-pink-500">Forgot Password?</a>
-        <a href="#" className="hover:text-pink-500">Create Account</a>
+        {/* <a href="#" className="hover:text-pink-500">Create Account</a> */}
+        <Link to={'/signup'}>Create Account</Link>
       </div>
     </div>
     
